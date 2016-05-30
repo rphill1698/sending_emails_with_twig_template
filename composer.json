@@ -1,0 +1,18 @@
+{
+    "name": "codenathan/sending_emails_with_twig_template",
+    "require": {
+        "twig/twig": "dev-master",
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "autoload": {
+        "classmap": [
+            "Services/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Codenathan",
+            "email": "codenathan@codenathan.com"
+        }
+    ]
+}
